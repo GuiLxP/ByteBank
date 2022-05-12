@@ -1,0 +1,8 @@
+E:\CSharp\csharppoo-aula1\04-ByteBank\obj\Debug\04-ByteBank.csproj.AssemblyReference.cache
+E:\CSharp\csharppoo-aula1\04-ByteBank\obj\Debug\04-ByteBank.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\csharppoo-aula1\04-ByteBank\obj\Debug\04-ByteBank.csproj.CoreCompileInputs.cache
+E:\CSharp\csharppoo-aula1\04-ByteBank\bin\Debug\04-ByteBank.exe.config
+E:\CSharp\csharppoo-aula1\04-ByteBank\bin\Debug\04-ByteBank.exe
+E:\CSharp\csharppoo-aula1\04-ByteBank\bin\Debug\04-ByteBank.pdb
+E:\CSharp\csharppoo-aula1\04-ByteBank\obj\Debug\04-ByteBank.exe
+E:\CSharp\csharppoo-aula1\04-ByteBank\obj\Debug\04-ByteBank.pdb
