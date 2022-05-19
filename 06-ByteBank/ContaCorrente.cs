@@ -28,16 +28,17 @@ namespace _06_ByteBank
         }
 
 
-
         public bool Sacar(double valor)
         {
             if (_saldo < valor)
             {
+                // Console.WriteLine("Saque NÃO efetuado!");
                 return false;
             }
             else
             {
                 _saldo -= valor;
+                // Console.WriteLine("Saldo efetuado!");
                 return true;
             }
         }
@@ -45,6 +46,7 @@ namespace _06_ByteBank
         public void Depositar(double valor)
         {
             _saldo += valor;
+            // Console.WriteLine("Valor depositado: " + valor + " com sucesso!");
         }
 
         public bool Transferir(double valor, ContaCorrente contaDestino)
