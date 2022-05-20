@@ -6,11 +6,3 @@ E:\CSharp\CSharp-OOP\06-ByteBank\obj\Debug\06-ByteBank.csproj.SuggestedBindingRe
 E:\CSharp\CSharp-OOP\06-ByteBank\obj\Debug\06-ByteBank.csproj.CoreCompileInputs.cache
 E:\CSharp\CSharp-OOP\06-ByteBank\obj\Debug\06-ByteBank.exe
 E:\CSharp\CSharp-OOP\06-ByteBank\obj\Debug\06-ByteBank.pdb
-C:\Users\guilherme.pantoja\source\repos\GuiLxP\ByteBankAlura\06-ByteBank\obj\Debug\06-ByteBank.csproj.AssemblyReference.cache
-C:\Users\guilherme.pantoja\source\repos\GuiLxP\ByteBankAlura\06-ByteBank\obj\Debug\06-ByteBank.csproj.SuggestedBindingRedirects.cache
-C:\Users\guilherme.pantoja\source\repos\GuiLxP\ByteBankAlura\06-ByteBank\obj\Debug\06-ByteBank.csproj.CoreCompileInputs.cache
-C:\Users\guilherme.pantoja\source\repos\GuiLxP\ByteBankAlura\06-ByteBank\obj\Debug\06-ByteBank.exe
-C:\Users\guilherme.pantoja\source\repos\GuiLxP\ByteBankAlura\06-ByteBank\obj\Debug\06-ByteBank.pdb
-C:\Users\guilherme.pantoja\source\repos\GuiLxP\ByteBankAlura\06-ByteBank\bin\Debug\06-ByteBank.exe.config
-C:\Users\guilherme.pantoja\source\repos\GuiLxP\ByteBankAlura\06-ByteBank\bin\Debug\06-ByteBank.exe
-C:\Users\guilherme.pantoja\source\repos\GuiLxP\ByteBankAlura\06-ByteBank\bin\Debug\06-ByteBank.pdb
